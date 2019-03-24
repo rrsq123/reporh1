@@ -1,6 +1,7 @@
 public class git1 {
     public static void main(String args[]){
         System.out.print("学习中");
+        System.out.print("学习中2");
 
     }
 
